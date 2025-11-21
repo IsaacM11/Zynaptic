@@ -12,7 +12,7 @@ Brindar una herramienta digital que facilite el registro, seguimiento y cuidado 
 
 3. Funcionalidades Principales
    
--Autenticación
+   -Autenticación
 
    Registro con correo y contraseña.
 
@@ -22,13 +22,13 @@ Brindar una herramienta digital que facilite el registro, seguimiento y cuidado 
 
    Acceso personalizado al dashboard.
 
--Pantalla de Inicio
+   -Pantalla de Inicio
 
    Mensaje de bienvenida personalizado.
 
    Información dinámica según el usuario.
-
--Catálogo de Especies
+   
+   -Catálogo de Especies
 
    Exploración de plantas.
 
@@ -36,7 +36,7 @@ Brindar una herramienta digital que facilite el registro, seguimiento y cuidado 
 
    Información detallada de cuidados.
 
--Gestión de Plantas del Usuario
+   -Gestión de Plantas del Usuario
 
    Registro de planta con foto, especie y nombre.
 
@@ -44,7 +44,7 @@ Brindar una herramienta digital que facilite el registro, seguimiento y cuidado 
 
    Ficha individual detallada con cuidados.
 
--Notificaciones
+   -Notificaciones
 
    Configuración personalizada de hora.
 
