@@ -12,45 +12,43 @@ Brindar una herramienta digital que facilite el registro, seguimiento y cuidado 
 
 3. Funcionalidades Principales
    
-  Autenticación
+-Autenticación
 
-Registro con correo y contraseña.
+   Registro con correo y contraseña.
 
-Inicio de sesión.
+   Inicio de sesión.
 
-Validación segura de credenciales.
+   Validación segura de credenciales.
 
-Acceso personalizado al dashboard.
+   Acceso personalizado al dashboard.
 
-  Pantalla de Inicio
+-Pantalla de Inicio
 
-Mensaje de bienvenida personalizado.
+   Mensaje de bienvenida personalizado.
 
-Información dinámica según el usuario.
+   Información dinámica según el usuario.
 
-  Catálogo de Especies
+-Catálogo de Especies
 
-Exploración de plantas.
+   Exploración de plantas.
 
-Filtros por categoría y tipo.
+   Filtros por categoría y tipo.
 
-Información detallada de cuidados.
+   Información detallada de cuidados.
 
-  Gestión de Plantas del Usuario
+-Gestión de Plantas del Usuario
 
-Registro de planta con foto, especie y nombre.
+   Registro de planta con foto, especie y nombre.
 
-Edición de datos de cada planta.
+   Edición de datos de cada planta.
 
-Ficha individual detallada con cuidados.
+   Ficha individual detallada con cuidados.
 
-  Notificaciones
+-Notificaciones
 
-Configuración personalizada de hora.
+   Configuración personalizada de hora.
 
-Historial de riegos y fertilizaciones.
-
-Filtros por planta.
+   Historial de riegos y fertilizaciones.
 
   Mi Perfil
 
